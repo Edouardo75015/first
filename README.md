@@ -7,7 +7,7 @@ Les notions à connaitre :
 
 (<href>) indique l'adresse de destination du lien
 
-Un exemple de code :  <a href="https://www.google.com">Aller sur Google</a>
+Voici Un exemple de code :  <a href="https://www.google.com">Aller sur Google</a>
 
 Dans cet exemple là "Aller sur Google" est le texte cliquable. L'attribut href indique le lien mène vers Google
 
