@@ -15,5 +15,5 @@ Erreur fréquente à éviter
 
 Ne pas oublier href ou son adresse : <a>Aller sur Google</a> 
 
-Ce code permet pas de créer correctement un lien vers Google, Il faut écrire  <a href="https://www.google.com">Allerne sur Google</a> .
+Ce code permet pas de créer correctement un lien vers Google, Il faut écrire  <a href="https://www.google.com">Aller sur Google</a> .
  
